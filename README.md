@@ -1,4 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 Gitを変更しました！
-メインブランチで変更　コンフリクト発生
+conflict branch changed コンフリクト発生！
+
