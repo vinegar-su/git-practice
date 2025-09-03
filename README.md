@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 Gitを変更しました！
-no-fast-forward branch changed
+conflict branch changed コンフリクト発生！
