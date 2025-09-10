@@ -5,3 +5,4 @@ conflict branch changed コンフリクト発生！
 conflict-local 上で更新しました
 rebase-practiceブランチで更新しました！！　コンフリクト用
 rebase用
+stash conflict 用
